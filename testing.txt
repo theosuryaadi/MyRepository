@@ -1,6 +1,6 @@
 Memcoba mengenal commit
 Nama Buah
--> Apel
 -> Semangka
--> Melon
 -> Pisang
+-> Melon
+-> Jeruk
